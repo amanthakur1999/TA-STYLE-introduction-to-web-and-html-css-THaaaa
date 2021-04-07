@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    font-size: 40px;
+}
+body{
+    background-color: aqua;
+}
+p{
+    color: brown;
+}
+.color{
+    color:darkblue;
+   font-size: 30px;
+
+}
