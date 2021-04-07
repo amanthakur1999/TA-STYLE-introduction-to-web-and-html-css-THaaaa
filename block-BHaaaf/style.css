@@ -1,15 +1,12 @@
 h1{
     color: red;
-    font-size: 40px;
-}
+font-size: 40px;}
+    p{
+        color: royalblue;
+    }
+    .color{
+        color: salmon;
+    }
 body{
-    background-color: aqua;
-}
-p{
-    color: brown;
-}
-.color{
-    color:darkblue;
-   font-size: 30px;
-
+    background-color: skyblue;
 }
