@@ -1,0 +1,20 @@
+body{
+    background-color: #223A6A;
+    color: #BDC4D2;
+    padding: 32px;
+    
+}
+.header{
+    text-align: center;
+}
+.contact{
+    color: red;
+    padding: 4px;
+    text-align: center;
+}
+h1{
+color:green;
+}
+h4{
+    color: white;
+}
